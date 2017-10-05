@@ -5,5 +5,6 @@ Portfolio voor de minor Data Science HHS.
 Individual courses
   - Coursera course proofs
   - Datacamp course proofs
+
 Bijgedragen documenten
 
