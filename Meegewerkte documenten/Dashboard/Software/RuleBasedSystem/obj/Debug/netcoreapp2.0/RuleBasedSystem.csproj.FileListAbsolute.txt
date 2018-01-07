@@ -1,0 +1,11 @@
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/bin/Debug/netcoreapp2.0/RuleBasedSystem.deps.json
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/bin/Debug/netcoreapp2.0/RuleBasedSystem.runtimeconfig.json
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/bin/Debug/netcoreapp2.0/RuleBasedSystem.runtimeconfig.dev.json
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/bin/Debug/netcoreapp2.0/RuleBasedSystem.dll
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/bin/Debug/netcoreapp2.0/RuleBasedSystem.pdb
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.csprojResolveAssemblyReference.cache
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.csproj.CoreCompileInputs.cache
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.AssemblyInfoInputs.cache
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.AssemblyInfo.cs
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.dll
+/Users/Arjan/School/Data Building HHS/rule_based_system/RuleBasedSystem/RuleBasedSystem/obj/Debug/netcoreapp2.0/RuleBasedSystem.pdb

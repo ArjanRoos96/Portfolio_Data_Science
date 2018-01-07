@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{0AE9BB4F-867B-468B-8A07-6ABA2FB2DBA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.RuleBasedSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RuleBasedSystem/Models/Result.cs">
+    <Files>
+      <File FileName="RuleBasedSystem/appsettings.json" Line="1" Column="1" />
+      <File FileName="RuleBasedSystem/Properties/launchSettings.json" Line="14" Column="25" />
+      <File FileName="RuleBasedSystem/Models/SensorData.cs" Line="4" Column="33" />
+      <File FileName="RuleBasedSystem/Controllers/RoomsController.cs" Line="22" Column="10" />
+      <File FileName="RuleBasedSystem/Models/DatabaseConnector.cs" Line="6" Column="34" />
+      <File FileName="RuleBasedSystem/Models/Processor.cs" Line="4" Column="33" />
+      <File FileName="RuleBasedSystem/Models/Room.cs" Line="4" Column="33" />
+      <File FileName="RuleBasedSystem/Models/Sensor.cs" Line="4" Column="33" />
+      <File FileName="RuleBasedSystem/Controllers/VerdiepingenController.cs" Line="19" Column="38" />
+      <File FileName="RuleBasedSystem/Models/DatetimeConverter.cs" Line="29" Column="31" />
+      <File FileName="RuleBasedSystem/Models/AirflowSetting.cs" Line="17" Column="25" />
+      <File FileName="RuleBasedSystem/Models/Result.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RuleBasedSystem" expanded="True">
+            <Node name="RuleBasedSystem" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Result.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
