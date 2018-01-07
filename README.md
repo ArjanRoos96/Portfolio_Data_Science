@@ -37,7 +37,7 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 (Wordt nog geupdated)
 
 ### Calling Bullshit
-De Calling Bullshit-opdracht - [Bestand]()
+De Calling Bullshit-opdracht - [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Calling%20Bullshit/Calling%20Bullshit%20Arjan%20Roos.pdf)
 
 # Meegewerkte documenten
 Deze map is onderverdeeld in twee processen: Handmatig en Dashboard. Dit om de reden dat in het project wij eerst lange tijd handmatig verschillenden annomalieën hebben gevonden. Vanaf week 15 zijn we begonnen met een Dashboard waarin de resultaten kunnen worden getoont, doordat het bestaande SAW programma niet aan onze wensen voldeed en lastig uitbreidbaar is.
