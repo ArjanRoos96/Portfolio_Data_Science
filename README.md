@@ -72,7 +72,7 @@ Naast de Scrum tickets is er binnen het team een voortgangsrooster bijgehouden. 
 
 ## Voetnoot
 
-Uiteraard was er ook het nodige teamwork nodig binnen het project. Die is er zeker geweest en de samenhang en positieve teamsfeer was leidend binnen het project. Hieronder dan ook een toepasselijke teamfoto op het Symposium Installaties 2020
+Uiteraard was er ook het nodige teamwork nodig binnen het project. Die is er zeker geweest en de samenhang en positieve teamsfeer was leidend binnen het project. Hieronder dan ook een toepasselijke teamfoto op het Symposium Installaties 2020, helaas zonder Steven en Jan Dirk.
 
 ![alt text](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/IMG_1461.JPG)
 
