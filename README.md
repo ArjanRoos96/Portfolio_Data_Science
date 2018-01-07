@@ -19,10 +19,10 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 * [Introduction to visualization](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
 * [Importing data in Phyton](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
 * [Phyton Data Science Toolbox](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
-* [Pandas foundation] (https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
+* [Pandas foundation](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
 * [Phyton Data Science Toolbox Part 2](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Overview%20Datacamp%20assignments%2008-10-2017.PNG)
 * [Statistical Thinking in Phyton certificaat](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Statistical%20Thinking%20in%20Phyton.pdf)
-* [Supervised Learning with scikit-learn certificaat] (https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
+* [Supervised Learning with scikit-learn certificaat](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
 
 ### Coursera
 * [Week 1](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Coursera/Week%201%2C%20Coursera%20Linear%20Regression%20with%20One%20Variable.PNG)
@@ -31,10 +31,10 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 * [Week 6]()
 
 ### Phyton Notebooks
+(Wordt nog geupdated)
 
 ### Spark
-
----
+(Wordt nog geupdated)
 
 # Meegewerkte documenten
 Deze map is onderverdeeld in twee processen: Handmatig en Dashboard. Dit om de reden dat in het project wij eerst lange tijd handmatig verschillenden annomalieën hebben gevonden. Vanaf week 15 zijn we begonnen met een Dashboard waarin de resultaten kunnen worden getoont, doordat het bestaande SAW programma niet aan onze wensen voldeed en lastig uitbreidbaar is.
@@ -68,7 +68,7 @@ Hieronder zijn de verschillende Scrum tickets van het Dashboard programma, welke
 * Het omzetten van het Settings bestand C++ -> C# [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/Settings%20omzetten.pdf)
 * Het ontwerpen van het Rule Based System [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/UML%20Design.pdf)
 
-Naast de Scrum tickets is er binnen het team een voortgangsrooster bijgehouden. Hierin is door elk teamlid dagelijks bijgehouden wat er is gedaan. Uiteraard ook door mij [Voortgansrooster] ()
+Naast de Scrum tickets is er binnen het team een voortgangsrooster bijgehouden. Hierin is door elk teamlid dagelijks bijgehouden wat er is gedaan. Uiteraard ook door mij [Voortgansrooster](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/20%20weken%20schema.xlsx)
 
 ## Voetnoot
 
