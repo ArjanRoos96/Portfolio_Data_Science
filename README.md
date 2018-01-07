@@ -36,6 +36,9 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 ### Spark
 (Wordt nog geupdated)
 
+### Calling Bullshit
+De Calling Bullshit-opdracht - [Bestand]()
+
 # Meegewerkte documenten
 Deze map is onderverdeeld in twee processen: Handmatig en Dashboard. Dit om de reden dat in het project wij eerst lange tijd handmatig verschillenden annomalieën hebben gevonden. Vanaf week 15 zijn we begonnen met een Dashboard waarin de resultaten kunnen worden getoont, doordat het bestaande SAW programma niet aan onze wensen voldeed en lastig uitbreidbaar is.
 
