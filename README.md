@@ -35,7 +35,7 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 
 ### Spark
 * [Assingment 1](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Spark/assignment1.md)
-* [Assignment 2]()
+* [Assignment 2](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Spark/assignment2.md)
 
 ### Calling Bullshit
 De Calling Bullshit-opdracht - [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Calling%20Bullshit/Calling%20Bullshit%20Arjan%20Roos.pdf)
