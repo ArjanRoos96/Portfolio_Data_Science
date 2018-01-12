@@ -59,6 +59,7 @@ Hieronder zijn de presentaties opgesomd welke met mijn medewerking zijn gepresen
 * [Presentatie 29-09-2017](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%2009-29.pptx)
 * [Presentatie 03-11-2017](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%2011-03.pptx)
 * [Presentatie 24-11-2017](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%2011-24.pptx)
+* [Presentatie 11-01-2018](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%202018-01-12.pptx)
 
 # SCRUM en Voortgangsbewaking
 Hieronder zijn de verschillende Scrum tickets van het Dashboard programma, welke aan mij zijn toegewezen, verdeeld onder de twee categorieën: Done en In Progress. (Spreekt voor zich, dit wordt in de laatste versie geüpdated)
