@@ -63,7 +63,7 @@ Deze map is onderverdeeld in twee processen: Handmatig en Dashboard. Dit om de r
 * In deze map is de door mij gemaakte software ter vervaning van het huidige SAW Expert programma. Dit programma dient op een server (of lokaal) te worden gedraaid. Het kan gedraaid worden ten behoeve van het Frontend programma. Het Rule Based System haalt de data op uit de database en analyseert deze vervolgens, op dezeflde wijze als in SAW, en geeft de mogelijkheid aan de Frontend om via de API de data op te halen. De data wordt vervolgens via een JSON-format doorgestuurd naar de Frontend. Dit Backend systeem bevat het Rule Based System wat al eerder ontworpen is, maar is aangevuld en verbeterd waar dit nodig was voor een volledige werking.  [Software-map](https://github.com/ArjanRoos96/Portfolio_Data_Science/tree/master/Meegewerkte%20documenten/Dashboard/Software)
 * Het voortgang bestand heb ik aangemaakt en zo goed mogelijk bijgehouden t.b.v. de duidelijkheid naar het team toe. Hierin is beschreven wat er is gebeurd en hoe dit in elkaar zit (makkelijke versie). Dit zorgde voor kennisdeling en het jusite informatie tijdens presentaties. [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Voortgang.docx)
 * Door het team zijn wensen ingediend voor het Dashboard. Dit zijn de wensen welke we graag in het programma terug wilen zien. Martijn en ik hebben deze wensen zo goed mogelijk geprobeerd uit te schrijven en te verduidelijken. [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Wensen%20voor%20het%20dashboard.docx)
-* Het ontwerp van de software in de UML taal. Dit zorgt ervoor dat er duidelijk zichtbaar is hoe het systeem in elkaar zit en zodat het project overdraagbaar is voor de volgende groep. (Ontwerp nog niet volledig) [Ontwerp]()
+* Het ontwerp van de software in de UML taal. Dit zorgt ervoor dat er duidelijk zichtbaar is hoe het systeem in elkaar zit en zodat het project overdraagbaar is voor de volgende groep. (Ontwerp nog niet volledig) [Ontwerp](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Rule%20Based%20System.png)
 
 # Presentaties
 Hieronder zijn de presentaties opgesomd welke met mijn medewerking zijn gepresenteerd. In alle presentaties heb ik het onderdeel Rule Based behandeld en evt. ook andere onderwerpen. Alle presenaties zijn met medewerking van de overige presenterende groepsleden tot stand gekomen.
@@ -79,9 +79,9 @@ Hieronder zijn de verschillende Scrum tickets van het Dashboard programma, welke
 ### Done
 * Het opzetten van de Git omgeving voor de drie systemen. [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/Git%20omgeving.pdf)
 * Het opzetten van de verschillende werkomgevingen: C# en Angular [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/Opzetten%20werkomgeving.pdf)
-* Het aanmaken van de database connecties en verschillende queries voor het Rule Based System [Ticket]()
-* Het ontwerpen van het Rule Based System [Ticket]()
-* Het omzetten van alle functies welke in het programma worden gebruikt. [Ticket]()
+* Het aanmaken van de database connecties en verschillende queries voor het Rule Based System [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/Maken%20DB-koppeling%20op%20Analyze%20HHS%20%7C%20Trello.pdf)
+* Het ontwerpen van het Rule Based System [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/%5BRB%5D%20UML%20-%20Design%20op%20Analyze%20HHS%20%7C%20Trello.pdf)
+* Het omzetten van alle functies welke in het programma worden gebruikt. [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/%5BRB%5D%20Functions%20omzetten%20op%20Analyze%20HHS%20%7C%20Trello.pdf)
 
 ### In Progress
 * Het omzetten van het Settings bestand C++ -> C# [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/Settings%20omzetten.pdf)
