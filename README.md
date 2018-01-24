@@ -31,7 +31,17 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 * [Week 6]()
 
 ### Phyton Notebooks
-(Wordt nog geupdated)
+* [1. Checking Data Edges]()
+* [2. Identifying variables]()
+* [3. Univariate Analysis]()
+* [4. Bivariate Analysis]()
+* [5. Missing Values]()
+* [6. Outliers]()
+* [7. Data Transformation]()
+* [8. Creating Variables]()
+* [9. Evaluate]()
+NB: Eventuele afbeeldingen van de course staan in dezelfde map als het document waar de link heen leid.
+
 
 ### Spark
 * [Assingment 1](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Spark/assignment1.md)
