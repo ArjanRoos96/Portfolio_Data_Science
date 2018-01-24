@@ -31,15 +31,16 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 * [Week 6]()
 
 ### Phyton Notebooks
-* [1. Checking Data Edges]()
-* [2. Identifying variables]()
-* [3. Univariate Analysis]()
-* [4. Bivariate Analysis]()
-* [5. Missing Values]()
-* [6. Outliers]()
-* [7. Data Transformation]()
-* [8. Creating Variables]()
-* [9. Evaluate]()
+* [1. Checking Data Edges](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/1%2BChecking%2BData%2BEdges.md)
+* [2. Identifying variables](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/2%2BIdentifying%2Bvariables.md)
+* [3. Univariate Analysis](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/3%2BUnivariate%2BAnalysis/3%20Univariate%20Analysis.md)
+* [4. Bivariate Analysis](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/4%2BBivariate%2BAnalysis/4%20Bivariate%20Analysis.md)
+* [5. Missing Values](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/5%2BMissing%2BValues.md)
+* [6. Outliers](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/6%2BOutliers/6%20Outliers.md)
+* [7. Data Transformation](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/7%2BData%2BTransformation/7%20Data%20Transformation.md)
+* [8. Creating Variables](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/8%2BCreating%2BVariables.md)
+* [9. Evaluate](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/9%2BEvaluate.md)
+
 NB: Eventuele afbeeldingen van de course staan in dezelfde map als het document waar de link heen leid.
 
 
@@ -59,10 +60,10 @@ Deze map is onderverdeeld in twee processen: Handmatig en Dashboard. Dit om de r
 * Door mij is een apart bestand opgezet om zo goed mogelijk alle annomalieën in kaart te bregen. Hierin is meegenomen tussen welke data de anomalie plaatsvind en om welke 'error' het gaat volgens het SAW Expert programma. Vanuit deze bevindingen is vervolgens de data gevisualiseerd d.m.v. de data in te laden in .csv bestanden. [SAW Expert anomalieën](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Handmatig%20Proces/SAW%20Expert%20anomalieën.xlsx)
 
 ## Dashboard
-* In deze map is de door mij gemaakte software ter vervaning van het huidige SAW Expert programma. Dit programma dient op een server (of lokaal) te worden gedraaid. Het kan gedraaid worden ten behoeve van het Frontend programma. Het Rule Based System haalt de data op uit de database en analyseert deze vervolgens, op dezeflde wijze als in SAW, en geeft de mogelijkheid aan de Frontend om via de API de data op te halen. De data wordt vervolgens via een JSON-format doorgestuurd naar de Frontend. Dit Backend systeem bevat het Rule Based System wat al eerder ontworpen is, maar is aangevuld en verbeterd waar dit nodig was voor een volledige werking.(Bestand wordt idealiter een .exe ter uitvoering)  [Software-map](https://github.com/ArjanRoos96/Portfolio_Data_Science/tree/master/Meegewerkte%20documenten/Dashboard/Software)
+* In deze map is de door mij gemaakte software ter vervaning van het huidige SAW Expert programma. Dit programma dient op een server (of lokaal) te worden gedraaid. Het kan gedraaid worden ten behoeve van het Frontend programma. Het Rule Based System haalt de data op uit de database en analyseert deze vervolgens, op dezeflde wijze als in SAW, en geeft de mogelijkheid aan de Frontend om via de API de data op te halen. De data wordt vervolgens via een JSON-format doorgestuurd naar de Frontend. Dit Backend systeem bevat het Rule Based System wat al eerder ontworpen is, maar is aangevuld en verbeterd waar dit nodig was voor een volledige werking.  [Software-map](https://github.com/ArjanRoos96/Portfolio_Data_Science/tree/master/Meegewerkte%20documenten/Dashboard/Software)
 * Het voortgang bestand heb ik aangemaakt en zo goed mogelijk bijgehouden t.b.v. de duidelijkheid naar het team toe. Hierin is beschreven wat er is gebeurd en hoe dit in elkaar zit (makkelijke versie). Dit zorgde voor kennisdeling en het jusite informatie tijdens presentaties. [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Voortgang.docx)
 * Door het team zijn wensen ingediend voor het Dashboard. Dit zijn de wensen welke we graag in het programma terug wilen zien. Martijn en ik hebben deze wensen zo goed mogelijk geprobeerd uit te schrijven en te verduidelijken. [Bestand](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Wensen%20voor%20het%20dashboard.docx)
-* Het ontwerp van de software in de UML taal. Dit zorgt ervoor dat er duidelijk zichtbaar is hoe het systeem in elkaar zit en zodat het project overdraagbaar is voor de volgende groep. (Ontwerp nog niet volledig) [Ontwerp](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Meegewerkte%20documenten/Dashboard/Rule%20Based%20System%20UML.png)
+* Het ontwerp van de software in de UML taal. Dit zorgt ervoor dat er duidelijk zichtbaar is hoe het systeem in elkaar zit en zodat het project overdraagbaar is voor de volgende groep. (Ontwerp nog niet volledig) [Ontwerp]()
 
 # Presentaties
 Hieronder zijn de presentaties opgesomd welke met mijn medewerking zijn gepresenteerd. In alle presentaties heb ik het onderdeel Rule Based behandeld en evt. ook andere onderwerpen. Alle presenaties zijn met medewerking van de overige presenterende groepsleden tot stand gekomen.
@@ -70,6 +71,7 @@ Hieronder zijn de presentaties opgesomd welke met mijn medewerking zijn gepresen
 * [Presentatie 03-11-2017](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%2011-03.pptx)
 * [Presentatie 24-11-2017](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%2011-24.pptx)
 * [Presentatie 11-01-2018](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Presentaties/Presentatie%202018-01-12.pptx)
+* [Presentatie 26-01-2018]()
 
 # SCRUM en Voortgangsbewaking
 Hieronder zijn de verschillende Scrum tickets van het Dashboard programma, welke aan mij zijn toegewezen, verdeeld onder de twee categorieën: Done en In Progress. (Spreekt voor zich, dit wordt in de laatste versie geüpdated)
@@ -77,11 +79,14 @@ Hieronder zijn de verschillende Scrum tickets van het Dashboard programma, welke
 ### Done
 * Het opzetten van de Git omgeving voor de drie systemen. [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/Git%20omgeving.pdf)
 * Het opzetten van de verschillende werkomgevingen: C# en Angular [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/Done/Opzetten%20werkomgeving.pdf)
+* Het aanmaken van de database connecties en verschillende queries voor het Rule Based System [Ticket]()
+* Het ontwerpen van het Rule Based System [Ticket]()
+* Het omzetten van alle functies welke in het programma worden gebruikt. [Ticket]()
 
 ### In Progress
-* Het aanmaken van de database connecties en verschillende queries voor het Rule Based System [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/DB%20Connectie.pdf)
 * Het omzetten van het Settings bestand C++ -> C# [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/Settings%20omzetten.pdf)
-* Het ontwerpen van het Rule Based System [Ticket](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/SCRUM%20Dashboard/In%20Progress/UML%20Design.pdf)
+
+Bovenstaand ticket zal door een nieuwe projectgroep moeten worden opgepakt.
 
 Naast de Scrum tickets is er binnen het team een voortgangsrooster bijgehouden. Hierin is door elk teamlid dagelijks bijgehouden wat er is gedaan. Uiteraard ook door mij [Voortgansrooster](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/SCRUM%20%26%20Voortgangsbewaking/20%20weken%20schema.xlsx)
 
