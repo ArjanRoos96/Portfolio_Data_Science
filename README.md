@@ -27,8 +27,8 @@ Hieronder staan voor de verschillende cursussen de bewijzen van voltooien. Elk v
 ### Coursera
 * [Week 1](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Coursera/Week%201%2C%20Coursera%20Linear%20Regression%20with%20One%20Variable.PNG)
 * [Week 2](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Coursera/Week%202%2C%20Linear%20Regression%20with%20Multiple%20Variables.PNG)
-* [Week 3]()
-* [Week 6]()
+* [Week 3](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Coursera/week3%20Coursera.png)
+* [Week 6](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Coursera/Week%206%20coursera.png)
 
 ### Phyton Notebooks
 * [1. Checking Data Edges](https://github.com/ArjanRoos96/Portfolio_Data_Science/blob/master/Individual%20Courses/Phyton%20Notebooks/1%2BChecking%2BData%2BEdges.md)
